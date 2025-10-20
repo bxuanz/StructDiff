@@ -1,0 +1,29 @@
+
+
+#### 00096
+condition_image: /data01/zhaobingxuan/training_free/RichControl/extract/stru_00060/00060_canny.png
+inversion_prompt: a canny edge map of a satellite image of ships.
+prompt: a satellite image of ships.
+
+
+# condition_image: /data01/zhaobingxuan/training_free/RichControl/extract/stru_00096/00096_depth.png 
+# inversion_prompt: a depth  map of a satellite image of 6 vehicles.
+
+
+# condition_image: /data01/zhaobingxuan/training_free/RichControl/extract/stru_00096/00096_hed.png 
+# inversion_prompt: a hed  map of a satellite image of 6 vehicles.
+
+
+
+# condition_image: /data01/zhaobingxuan/training_free/RichControl/extract/stru_00096/00096_lineart.png 
+# inversion_prompt: a lineart map of a satellite image of 6 vehicles.
+
+
+# condition_image: /data01/zhaobingxuan/training_free/RichControl/extract/stru_00096/00096_mlsd.png 
+# inversion_prompt: a mlsd map of a satellite image of 6 vehicles.
+
+
+
+# condition_image: /data01/zhaobingxuan/training_free/RichControl/extract/stru_00096/00096_normal.png 
+# inversion_prompt: a normal map of a satellite image of 6 vehicles.
+

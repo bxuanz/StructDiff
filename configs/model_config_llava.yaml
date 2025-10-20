@@ -1,0 +1,20 @@
+### llava ARP config
+
+erode: true
+unsharp: true
+restart: true
+S_noise: 1.0
+restart_list: {1.0: [5, 3, 2.0, 0.0, 0.0]}
+split_save_and_inj: true
+struct_inj_k: 0.0
+struct_inj_b: 0.4
+struct_inj_last: 0.6
+self_recurrence_times: 2
+
+# ... a lot of other configurations ...
+modify_prompt: true
+
+# Add a new section for the local prompt model
+prompt_model:
+  id: "llava-hf/llava-1.5-7b-hf"
+  type: "llava"
