@@ -1,6 +1,6 @@
 # StructDiff: A Training-Free Framework for Precise Structural Control in Remote Sensing Image Synthesis
 
-Bingxuan Zhao, Chuang Yang, Qi zhou, Qi Wang
+Bingxuan Zhao, Chuang Yang, Qing zhou, Qi Wang
 
 
 ![StructDiff  figure](assets/structure.png)
