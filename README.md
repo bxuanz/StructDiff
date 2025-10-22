@@ -3,7 +3,7 @@
 Bingxuan Zhao, Chuang Yang, Qing zhou, Qi Wang
 
 
-![StructDiff  figure](assets\structure.png)
+![StructDiff  figure](assets/structure.png)
 
 ## Environment setup
 
